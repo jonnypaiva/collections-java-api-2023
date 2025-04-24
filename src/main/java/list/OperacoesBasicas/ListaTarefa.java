@@ -49,6 +49,8 @@ public class ListaTarefa {
     listaTarefa.adicionarTarefa("Comprar leite");
     listaTarefa.adicionarTarefa("Estudar para o exame");
     listaTarefa.adicionarTarefa("Fazer exercícios");
+    listaTarefa.adicionarTarefa("Ir para academia");
+    listaTarefa.adicionarTarefa("Trabalhar");
 
     // Exibindo o número total de tarefas na lista
     System.out.println("Você tem " + listaTarefa.obterNumeroTotalTarefas() + " tarefas na lista:");

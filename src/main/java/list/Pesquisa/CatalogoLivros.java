@@ -67,7 +67,7 @@ public class CatalogoLivros {
     catalogoLivros.adicionarLivro("Java Guia do Programador", "Peter Jandl Junior", 2021);
     catalogoLivros.adicionarLivro("Código Limpo", "Robert C. Martin", 2009);
     catalogoLivros.adicionarLivro("O Codificador Limpo", "Robert C. Martin", 2012);
-
+    catalogoLivros.adicionarLivro("Como lhe dar com pessoas manipuladoras", "Jonny", 2024);
     // Exibindo livros pelo mesmo autor
     System.out.println(catalogoLivros.pesquisarPorAutor("Robert C. Martin"));
 
